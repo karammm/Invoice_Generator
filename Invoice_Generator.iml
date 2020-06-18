@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="JavaFX-11" level="application" />
+    <orderEntry type="library" name="sqlite-jdbc-3.30.1" level="project" />
   </component>
 </module>
